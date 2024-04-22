@@ -21,3 +21,5 @@ class Matakuliah{
         int sks;
 
 };
+
+    public:
